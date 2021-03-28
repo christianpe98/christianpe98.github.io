@@ -1,0 +1,12 @@
+
+#canvas1{
+    position: absolute;
+    top: 0;
+    left: 0;
+    padding: 1em;
+    position: absolute;
+}
+
+body{
+    overflow: hidden;
+}
